@@ -1,4 +1,10 @@
-# my-first-repo
+###### **Cole's first repo**
+
+> Cole has went into the zoo
+>
+>> Cole has stolen a Otter and left
+
+[cupid](https://youtu.be/oPiMXnY-oAE)
 
 ## My List
 - Item1
